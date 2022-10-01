@@ -1,0 +1,16 @@
+.rodape {
+
+}
+
+.rodape__fale-conosco {
+
+}
+
+.rodape__direitos {
+    padding: 3rem 0;
+    color: var(--preto);
+    font-size: 16px;
+    font-family: var(--fonte);
+    text-align: center;
+    background-color: var(--branco);
+}
